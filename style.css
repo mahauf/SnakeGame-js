@@ -66,16 +66,19 @@ h1{
 .snake{
     border: black 1px dotted;
     background-color: black;
+    display: block;
+    
 }
 
 .food{
-    background-color: black;
-    /* border: #999 5px solid; */
-    /* display: block;
-    width: 16px;
-    height: 20px;
-    background-color: red;
-    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%; */
+    
+    border: #000000 4px solid;
+    border-color: black;
+    /* width: 16px;
+    display: block;
+    height: 20px; */
+    
+    /* border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%; */
   
 }
 
